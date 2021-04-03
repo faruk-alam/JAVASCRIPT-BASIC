@@ -1,0 +1,20 @@
+Basic syntax of javascript:
+
+You can embed the JavaScript code directly within your web pages by placing it between the <script> and </script> tags. The <script> tag indicates the browser that the 
+contained statements are to be interpreted as executable script and not HTML.
+
+Syntax: <script src="js/text.js"></script>
+
+Embedding the JavaScript:
+There are typically three way add javascript code:
+Between the body tag of html
+Between the head tag of html
+External javaScript
+
+Generating Output in JavaScript:
+In JavaScript there are several different ways of generating output including writing output to the browser window or browser console, displaying output in dialog boxes, 
+writing output into an HTML element, etc.
+some functions are used for showing output in javascript:
+alart();
+document.write();
+console.log();
