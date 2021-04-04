@@ -1,0 +1,19 @@
+Statement and comment of javascript:
+
+In terms of computer programming,statement is a instruction that we give to the copmuter to do something.
+All languages are made up of statements, Javascript is made up of statements comprise of expression which are executed from top to bottom.
+Multiple statements must be seperated using a semicolon (;), though the parsers can determine where the statement ends but its recommended to always use one.
+Also multiple statements can be combined into a single code block by using the curly braces, starting with opening braces ({) and ending with closing braces (})
+
+Comments:
+
+The JavaScript comments are meaningful way to deliver message. It is used to add information about the code, warnings or suggestions so that end user can easily interpret the
+code.The JavaScript comment is ignored by the JavaScript engine i.e. embedded in the browser.
+
+Types of JavaScript Comments
+There are two types of comments in JavaScript.
+
+Single-line Comment
+Multi-line Comment
+JavaScript support single-line as well as multi-line comments. Single-line comments begin with a double forward slash (//), followed by the comment text.
+Whereas, a multi-line comment begins with a slash and an asterisk (/*) and ends with an asterisk and slash (*/). 
