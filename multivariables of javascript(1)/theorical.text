@@ -1,0 +1,17 @@
+Declaring Multiple Variables at Once:
+
+n addition, you can also declare multiple variables and set their initial values in a single statement. Each variable are separated by commas, as demonstrated in the 
+following example:
+syntax:
+var name = "Peter Parker";
+var age = 21;
+var isMarried = false;
+
+// Declaring multiple Variables
+var name = "Peter Parker", age = 21, isMarried = false;
+ 
+/* Longer declarations can be written to span
+multiple lines to improve the readability */
+var name = "Peter Parker",
+age = 21,
+isMarried = false;
