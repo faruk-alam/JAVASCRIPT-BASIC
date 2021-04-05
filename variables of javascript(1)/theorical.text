@@ -1,0 +1,25 @@
+Javascript Variable:
+Variables are fundamental to all programming languages. Variables are used to store data, like string of text, numbers, etc. The data or value stored in the variables can be set,
+updated, and retrieved whenever needed.
+
+Declare variables in Javascript:
+
+Before using a variable,At first,you need to declare it,you can use keyword "var" to declare a variable like this:
+var name;
+
+Assign a value to the variable:
+You can assign a value to the variable either while declaring the variable or after declaring the variable.like this:
+var name = "javascript";
+or
+var name;
+name = "javascript";
+
+Naming variables:
+Though you can name the variables as you like,It is a good programming practice to give destractive and meaningful names to the variables,Moreover,These are the following 
+rules for naming a JavaScript variable:
+
+A variable name must start with a letter, underscore (_), or dollar sign ($).
+A variable name cannot start with a number.
+A variable name can only contain alpha-numeric characters (A-z, 0-9) and underscores.
+A variable name cannot contain spaces.
+A variable name cannot be a JavaScript keyword or a JavaScript reserved word.
