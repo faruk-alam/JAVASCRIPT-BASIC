@@ -1,0 +1,9 @@
+Number data types:
+
+The number data type is used to represent positive or negative numbers with or without decimal place, or numbers written using exponential notation e.g. 1.5e-4 
+(equivalent to 1.5x10-4).
+The Number data type also includes some special values which are: Infinity, -Infinity and NaN. Infinity represents the mathematical Infinity ∞, which is greater than any number. 
+infinity is the result of dividing a nonzero number by 0, as demonstrated below:
+
+
+
