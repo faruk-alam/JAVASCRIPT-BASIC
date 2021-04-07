@@ -1,0 +1,34 @@
+Data Types in JavaScript:
+
+Data types basically specify what kind of data can be stored and manipulated within a program.
+There are six basic data types in JavaScript which can be divided into three main categories: (Primitive or primary) and non-primitive(reference & special) data types.
+
+JavaScript primitive data types
+There are five types of primitive data types in JavaScript. They are as follows:
+
+Data Type	         Description
+String	           represents sequence of characters e.g. "hello"
+Number	           represents numeric values e.g. 100
+Boolean	           represents boolean value either false or true
+Undefined	         represents undefined value
+Null	             represents null i.e. no value at all
+
+JavaScript non-primitive data types:
+The non-primitive data types are as follows:
+
+Data Type	        Description
+Object	          represents instance through which we can access members
+Array	            represents group of similar values
+RegExp	          represents regular expression
+
+lets discuss one of them in details-
+JavaScript primitive data types-
+Number data types:
+The number data type is used to represent positive or negative numbers with or without decimal place, or numbers written using exponential notation e.g. 1.5e-4 
+(equivalent to 1.5x10-4).
+
+Syntax: 
+var a = 25;         // integer
+var b = 80.5;       // floating-point number
+var c = 4.25e+6;    // exponential notation, same as 4.25e6 or 4250000
+var d = 4.25e-6;    // exponential notation, same as 0.00000425
