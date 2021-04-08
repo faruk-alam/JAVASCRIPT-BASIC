@@ -1,0 +1,7 @@
+The String Data Type
+The string data type is used to represent textual data (i.e. sequences of characters). Strings are created using single or double quotes surrounding one or more characters
+
+Syntax:
+var a = 'Hi there!';  // using single quotes
+var b = "Hi there!";  // using double quotes
+You can include quotes inside the string as long as they don't match the enclosing quotes.
