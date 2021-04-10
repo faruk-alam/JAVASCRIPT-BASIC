@@ -1,0 +1,6 @@
+The Boolean Data Type
+The Boolean data type can hold only two values: true or false. It is typically used to store values like yes (true) or no (false), on (true) or off (false), etc.
+
+Syntax:
+var isReading = true;   // yes, I'm reading
+var isSleeping = false; // no, I'm not sleeping
