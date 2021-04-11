@@ -1,0 +1,14 @@
+The Null Data Type
+This is another special data type that can have only one value-the null value. A null value means that 
+there is no value. It is not equivalent to an empty string ("") or 0, it is simply nothing.
+
+A variable can be explicitly emptied of its current contents by assigning it the null value.
+
+var a = null;
+alert(a); // Output: null
+ 
+var b = "Hello World!"
+alert(b); // Output: Hello World!
+ 
+b = null;
+alert(b) // Output: null
