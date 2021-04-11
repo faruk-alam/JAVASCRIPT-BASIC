@@ -1,0 +1,10 @@
+The Undefined Data Type
+The undefined data type can only have one value-the special value undefined. If a variable
+has been declared, but has not been assigned a value, has the value undefined.
+
+Syntax:
+var a;
+var b = "Hello World!"
+ 
+alert(a) // Output: undefined
+alert(b) // Output: Hello World!
