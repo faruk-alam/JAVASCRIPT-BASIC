@@ -1,0 +1,17 @@
+JavaScript Operators:
+Operators are symbols or keywords that tell the JavaScript engine to perform some sort of 
+actions. For example, the addition (+) symbol is an operator that tells JavaScript engine 
+to add two variables or values, while the equal-to (==), greater-than (>) or less-than (<) 
+symbols are the operators that tells JavaScript engine to compare two variables or values, 
+and so on.
+
+JavaScript Assignment Operators
+The assignment operators are used to assign values to variables.
+
+Operator	Description	Example	Is The Same As
+=	Assign	x = y	x = y
++=	Add and assign	x += y	x = x + y
+-=	Subtract and assign	x -= y	x = x - y
+*=	Multiply and assign	x *= y	x = x * y
+/=	Divide and assign quotient	x /= y	x = x / y
+%=	Divide and assign modulus	x %= y	x = x % y
