@@ -1,0 +1,14 @@
+JavaScript Operators:
+Operators are symbols or keywords that tell the JavaScript engine to perform some sort of 
+actions. For example, the addition (+) symbol is an operator that tells JavaScript engine 
+to add two variables or values, while the equal-to (==), greater-than (>) or less-than (<) 
+symbols are the operators that tells JavaScript engine to compare two variables or values, 
+and so on.
+
+JavaScript Logical Operators
+The logical operators are typically used to combine conditional statements.
+
+Operator	Name	Example	Result
+&&	And	x && y	True if both x and y are true
+||	Or	x || y	True if either x or y is true
+!	Not	!x	True if x is not true
