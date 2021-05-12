@@ -1,0 +1,6 @@
+Formatting Numbers to Fixed Decimals:
+
+You can use the toFixed() method when you want to format a number with a fixed number of 
+digits to the right of the decimal point. The value returned by this method is a string 
+and it has exactly specified number of digits after the decimal point. If the digits 
+parameter is not specified or omitted, it is treated as 0.
