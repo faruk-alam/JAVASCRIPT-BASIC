@@ -1,0 +1,8 @@
+Formatting Numbers with Precision:
+
+If you want most appropriate form of a number, you can use the toPrecision() method 
+instead. This method returns a string representing the number to the specified precision.
+
+If precision is large enough to include all the digits of the integer part of number, 
+then the number is formatted using fixed-point notation. Otherwise, the number is 
+formatted using exponential notation. The precision parameter is optional.
