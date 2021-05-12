@@ -1,0 +1,5 @@
+Converting Numbers to Strings:
+
+The toString() method can be used to convert a number to its string equivalent. This 
+method optionally accepts an integer parameter in the range 2 through 36 specifying the 
+base to use for representing numeric values.
