@@ -1,0 +1,4 @@
+String Method:Converting a String to Uppercase or Lowercase
+
+You can use the toUpperCase() method to convert a string to uppercase,Similarly, you can 
+use the toLowerCase() to convert a string to lowercase.
