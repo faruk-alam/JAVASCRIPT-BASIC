@@ -1,0 +1,7 @@
+String Method:Replacing the Contents of a String
+
+You can use the replace() method to replace part of a string with another string. This 
+method takes two parameters a regular expression to match or substring to be replaced and 
+a replacement string, like str.replace(regexp|substr, newSubstr).
+This replace() method returns a new string, it doesn't affect the original string that will
+remain unchanged.
