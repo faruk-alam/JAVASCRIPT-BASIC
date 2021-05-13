@@ -1,0 +1,6 @@
+String Method:Getting the Length of a String
+
+The length property returns the length of the string, which is the number of characters 
+contained in the string. This includes the number of special characters as well, such as 
+\t or \n.
+
