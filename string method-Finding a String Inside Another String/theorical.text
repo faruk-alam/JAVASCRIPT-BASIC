@@ -1,0 +1,5 @@
+String Method:Finding a String Inside Another String
+
+You can use the indexOf() method to find a substring or string within another string. This 
+method returns the index or position of the first occurrence of a specified string within 
+a string.
