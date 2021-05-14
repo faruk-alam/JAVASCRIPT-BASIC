@@ -1,0 +1,5 @@
+String Method:Accessing Individual Characters from a String
+
+You can use the charAt() method to access individual character from a string, like str.
+charAt(index). The index specified should be an integer between 0 and str.length - 1. If 
+no index is provided the first character in the string is returned, since the default is 0.
