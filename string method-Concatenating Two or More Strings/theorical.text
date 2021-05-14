@@ -1,0 +1,3 @@
+Concatenating Two or More Strings:
+
+JavaScript provides concat() method to combine strings, but it is not recommended.
