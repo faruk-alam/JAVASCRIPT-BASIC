@@ -1,0 +1,22 @@
+JavaScript Conditional Statements:
+
+Like many other programming languages, JavaScript also allows you to write code that 
+perform different actions based on the results of a logical or comparative test conditions 
+at run time. This means, you can create test conditions in the form of expressions that 
+evaluates to either true or false and based on these results you can perform certain 
+actions.
+There are three forms of if statement in JavaScript:
+If Statement
+If else statement
+if else if statement
+JavaScript If-else
+The if...else if...else Statement
+The if...else if...else a special statement that is used to combine multiple if...else 
+statements.
+if(condition1) {
+    // Code to be executed if condition1 is true
+} else if(condition2) {
+    // Code to be executed if the condition1 is false and condition2 is true
+} else {
+    // Code to be executed if both condition1 and condition2 are false
+}
