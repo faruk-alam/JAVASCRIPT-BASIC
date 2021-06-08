@@ -1,0 +1,32 @@
+JavaScript Loops:
+Loops are used to execute the same block of code again and again, as long as a certain 
+condition is met. The basic idea behind a loop is to automate the repetitive tasks within 
+a program to save the time and effort. JavaScript now supports five different types of 
+loops:
+
+for — loops through a block of code until the counter reaches a specified number.
+while — loops through a block of code as long as the condition specified evaluates to true.
+do…while — loops through a block of code once; then the condition is evaluated. If the 
+condition is true, the statement is repeated as long as the specified condition is true.
+for…in — loops through the properties of an object.
+for…of — loops over iterable objects such as arrays, strings, etc.
+All loops are built in three main principles:
+
+I-Initialization
+C-Condition
+U-Update
+initialization — it is used to initialize the counter variables, and evaluated once 
+unconditionally before the first execution of the body of the loop.
+condition — it is evaluated at the beginning of each iteration. If it evaluates to true, 
+the loop statements execute. If it evaluates to false, the execution of the loop ends.
+update — it updates the loop counter with a new value each time the loop runs.
+The while Loop
+This is the simplest looping statement provided by JavaScript.
+
+The while loop loops through a block of code as long as the specified condition evaluates 
+to true. As soon as the condition fails, the loop is stopped. The generic syntax of the 
+while loop is:
+
+while(condition) {
+    // Code to be executed
+}
