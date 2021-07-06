@@ -1,0 +1,33 @@
+JavaScript Functions :
+JavaScript functions are used to perform operations. We can call JavaScript function many 
+times to reuse the code.
+Javascript functions are a collection of statements, either named or unnamed(anonymous) that
+that perform specific tasks and can be called when required within a Javascript program.
+
+Here are some advantages of using functions:
+Functions reduces the repetition of code within a program — Function allows you to extract 
+commonly used block of code into a single component. Now you can perform the same task by 
+calling this function wherever you want within your script without having to copy and 
+paste the same block of code again and again.
+
+Functions makes the code much easier to maintain — Since a function created once can be 
+used many times, so any changes made inside a function automatically implemented at all 
+the places without touching the several files.
+
+Functions makes it easier to eliminate the errors — When the program is subdivided into 
+functions, if any error occur you know exactly what function causing the error and where 
+to find it. Therefore, fixing errors becomes much easier.
+
+Defining and Calling a Function
+The declaration of a function start with the function keyword, followed by the name of the 
+function you want to create, followed by parentheses i.e. () and finally place your 
+function's code between curly brackets {}. Here's the basic syntax for declaring a 
+function:
+
+function functionName() {
+    // Code to be executed
+}
+
+Note: A function name must start with a letter or underscore character not with a number, 
+optionally followed by the more letters, numbers, or underscore characters. Function names 
+are case sensitive, just like variable names.
