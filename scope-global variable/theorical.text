@@ -1,0 +1,13 @@
+Scope of Variables:
+Scope refers to the availability of variables and functions in certain parts of the code.
+The scope of the variables defines where the variable can be used in the program(i.e its 
+visibility) .
+
+In JavaScript, a variable has two types of scope:
+
+Global Scope
+Local Scope
+
+Global Scope:
+A variable declared at the top of a program or outside of a function is considered a 
+global scope variable and they can be used and manipulated any where in the program. 
