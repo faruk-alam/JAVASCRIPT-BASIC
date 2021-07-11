@@ -1,0 +1,41 @@
+var vs. let vs. const
+Let's compare the var, let, and const keywords in JavaScript!
+
+The var keyword:
+Before ES6 (ES2015) few years ago, there was only one way to declare variables and constants 
+in JavaScript, which was using var.
+To understand var, we need to first learn how they are scoped.
+Variables declared with var are function-scoped. This means that if a variable is declared 
+anywhere else besides a function using var, it will always exist in the global scope.
+Variable declared using var can be redeclared as well.
+
+After ES6/ES2015, JavaScript introduced *let *and *const *as newer alternatives to overcome
+the problems faced with var*. *Let’s dive into those next.
+
+The let keyword:
+Typically, we want our variables to be scoped within a block of code. If we declare a 
+variable within a block of code say a for-loop, we want it to live within that block and 
+be inaccessible outside of it. This behavior can be achieved in JavaScript using the let 
+keyword.
+let is block scoped
+A block is a chunk of code bounded by {}. A block lives in curly braces. Anything within 
+curly braces is a block.So a variable declared in a block with let  is only available for 
+use within that block.
+
+The const Keyword:
+*const *is another addition in the ES6 JavaScript standards. It is similar to *let, *where 
+it also adheres to the block-scope.const is block-scoped. This means that the variable 
+declared with const cannot be redeclared or reassigned.
+
+Recap
+Alright, we have reached the end of this topic. In my opinion there are still times when 
+you may want to use var, when you want to keep the scope within a function instead of a 
+block of code.
+
+*let *and *const *are great additions to the ES6 standards, to write more predictable 
+code.
+
+var – Can be re-assigned, re-defined and has a function-scope. When declared outside the 
+function, it has a global scope and attaches itself to the window object.
+*let *– Can be re-assigned. It’s scope is within a block of code.
+const *– *Cannot be re-assigned or re-defined. It’s scope is within a block of code.
