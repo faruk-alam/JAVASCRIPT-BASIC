@@ -1,0 +1,15 @@
+Hoisting in JavaScript is a behavior in which a function or a variable can be used before declaration. 
+For example,
+// using test before declaring
+console.log(test);   // undefined
+var test;
+
+The above program works and the output will be undefined. The above program behaves as
+// using test before declaring
+var test;
+console.log(test); // undefined
+
+Since the variable test is only declared and has no value, undefined value is assigned to it.
+Note: In hoisting, though it seems that the declaration has moved up in the program, the actual thing that 
+happens is that the function and variable declarations are added to memory during the compile phase. 
+A function can be called before declaring it.
