@@ -39,3 +39,14 @@ var – Can be re-assigned, re-defined and has a function-scope. When declared o
 function, it has a global scope and attaches itself to the window object.
 *let *– Can be re-assigned. It’s scope is within a block of code.
 const *– *Cannot be re-assigned or re-defined. It’s scope is within a block of code.
+
+        VAR                         LET                                     CONST
+globally scoped                 globally scoped                          globally scoped 
+
+function scoped                 function scoped                          function scoped
+
+NOT block scoped                block scoped                             block scoped
+
+can be re-assigned              can be re-assigned                       can NOT be re-assigned
+
+can be re-declared               can NOT be re-declared                  can NOT be re-declared
